@@ -55,8 +55,10 @@ client.close()
 ## OUPUT
 #### fileserver.py
 <img width="599" height="109" alt="image" src="https://github.com/user-attachments/assets/21837f65-7095-4fbe-92f8-af835a2e0f0a" />
+
 #### fileclient.py
 <img width="579" height="64" alt="image" src="https://github.com/user-attachments/assets/c0f62876-7eec-4097-8b5a-4fe69ae2f8f0" />
+
 #### sample.txt
 <img width="739" height="199" alt="image" src="https://github.com/user-attachments/assets/9a39b312-8ed0-4b68-8871-9482a179a74a" />
 
